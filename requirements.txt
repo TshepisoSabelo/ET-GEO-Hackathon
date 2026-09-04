@@ -1,0 +1,23 @@
+# Core data science
+numpy
+pandas
+scipy
+matplotlib
+seaborn
+
+# Geospatial analysis
+geopandas
+shapely
+pyproj
+rasterio
+xarray
+rioxarray
+
+# Notebook support
+jupyter
+ipykernel
+
+# Weather Data 
+openmeteo_requests
+requests_cache
+retry_requests
